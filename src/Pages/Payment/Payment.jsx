@@ -42,7 +42,7 @@ const Payment = () => {
           <div>
             <div>{user?.email}</div>
             <div>123 React Lane</div>
-            <div>Addis Ababa, Ethiopia</div>
+            <div>Bahirdar, Ethiopia</div>
           </div>
         </div>
 
